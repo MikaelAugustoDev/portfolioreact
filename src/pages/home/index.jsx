@@ -8,7 +8,7 @@ import Foto from "../../assets/foto.png"
 import { Footer } from "../../components/footer"
 import { Redes } from "../../components/RedesContainer";
 import { Email } from "../../components/Email";
-import Curriculo from "../../assets/mikaelCurriculo.pdf"
+import Curriculo from "../../assets/MikaelCurriculo.pdf"
 
 const Main = styled.main`
     min-width: 100%;
